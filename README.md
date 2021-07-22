@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Muhammad Mahib Arib
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahib22&label=Profile%20views&color=0e75b6&style=flat" alt="kylixeza" /> </p>
+<p align="left"> <a href="#"><img src="https://komarev.com/ghpvc/?username=Mahib22&label=Profile%20views&color=0e75b6&style=flat" alt="kylixeza" /></a> </p>
 
 ### Tech Stack
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="html5" width="40" height="40" /></a> 
