@@ -19,7 +19,5 @@
 </p>
 
 ### Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/mahib-arib-8738b01b1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahib-arib-8738b01b1" height="30" width="40" title="LinkedIn" /></a>
-<a href="https://medium.com/@mahib-arib" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahib-arib" height="30" width="40" title="Medium" /></a>
-</p>
+<a href="https://hello-mahib.carrd.co/">hello-mahib.carrd.co</a>  
+<a href="https://mahib22.github.io/">mahib22.github.io</a>
