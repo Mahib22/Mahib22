@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
+
 # Hi! 👋 I'm Muhammad Mahib Arib
 
 <p align="left"> <a href="#"><img src="https://komarev.com/ghpvc/?username=Mahib22&label=Profile%20views&color=0e75b6&style=flat" alt="kylixeza" /></a> </p>
