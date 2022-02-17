@@ -1,10 +1,20 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <div id="badges">
+      <a href="https://www.linkedin.com/in/mahib-arib">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://mahib-arib.medium.com">
+        <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+      </a>
+      <a href="https://codepen.io/mahib22">
+        <img src="https://img.shields.io/badge/Codepen-grey?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
+      </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=Mahib22&label=Profile%20views&color=blue&style=flat-square" alt="mahib22" />
 </div>
 
-# Hi! 👋 I'm Muhammad Mahib Arib
-
-<p align="left"> <a href="#"><img src="https://komarev.com/ghpvc/?username=Mahib22&label=Profile%20views&color=0e75b6&style=flat" alt="kylixeza" /></a> </p>
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Muhammad Mahib Arib
 
 ### Tech Stack
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="html5" width="40" height="40" /></a> 
